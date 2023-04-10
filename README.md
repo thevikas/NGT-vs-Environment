@@ -17,4 +17,6 @@ There are many aspects to consider why the order for the ban is wrong. And the r
 9. It does not consider toxicity of refinery plants
 9. It does not consider toxicity of refinery plants
 
+![image](https://user-images.githubusercontent.com/94922/230820245-b05f2ad9-0fd3-4c1b-8d0c-d00fa3f9a574.png)
+https://cheddar.com/media/evs-gobble-up-rare-earth-minerals-as-miners-struggle-to-keep-up
 
